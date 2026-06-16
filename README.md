@@ -140,27 +140,6 @@ com leitura fora do padrão...
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-challenge-goodwe/
-├── README.md
-├── pai/                               # Projeto de IA (Sprint 1 e 2)
-│   ├── chatbot.py                     # ← SPRINT 2: Chatbot Python (execução local)
-│   ├── ChargeGrid_Assistant_Sprint2.ipynb  # ← SPRINT 2: Notebook Google Colab
-│   ├── resultados_testes.md           # ← SPRINT 2: Resultados dos 5 casos de teste
-│   ├── fluxograma.png                 # Sprint 1: Fluxo do ChargeGrid Assistant
-│   ├── system_prompt.md               # Sprint 1: Prompt base do assistente
-│   └── modelo_teste.md                # Sprint 1: Base de perguntas e respostas
-│
-├── pcp/                               # Pensamento Computacional
-├── dsa/                               # Estruturas de Dados e Algoritmos
-├── cs/                                # Computer Science (Circuitos Lógicos)
-├── coa/                               # Organização e Arquitetura de Computadores
-├── mlpam/                             # Modelagem Linear
-├── mmc/                               # Modelagem Matemática
-└── sers/                              # Sustentabilidade e Energia Renovável
-```
 
 ---
 
@@ -199,5 +178,3 @@ A solução promove **sustentabilidade** incentivando o carregamento em horário
 | Lucas Dorice Dos Santos | 568692 |
 | Vinicius de Oliveira Coppola | 571699 |
 
-**Data de Entrega Sprint 1:** 22/05/2026  
-**Data de Entrega Sprint 2:** [a definir]
